@@ -1,0 +1,6 @@
+[user]
+	name = Theodor Ciornei-Foia
+	email = puzzleaheaded.pea.683@gmail.com
+[core]
+	editor = vim
+	autocrlf = input
